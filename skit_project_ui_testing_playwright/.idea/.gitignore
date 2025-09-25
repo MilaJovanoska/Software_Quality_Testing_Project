@@ -1,0 +1,8 @@
+# Default ignored files
+/../../skit_project_ui_testing_playwright /.idea/shelf/
+/../../skit_project_ui_testing_playwright /.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../skit_project_ui_testing_playwright /.idea/httpRequests/
+# Datasource local storage ignored files
+/../../skit_project_ui_testing_playwright /.idea/dataSources/
+/../../skit_project_ui_testing_playwright /.idea/dataSources.local.xml
